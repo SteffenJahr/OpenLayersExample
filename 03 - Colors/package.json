@@ -1,0 +1,16 @@
+{
+  "name": "OpenLayersSeries",
+  "version": "1.0.0",
+  "author": "Steffen Jahr",
+  "scripts": {
+    "start": "node_modules/.bin/gulp"
+  },
+  "devDependencies": {
+    "del": "^2.0.2",
+    "express": "^4.13.3",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "run-sequence": "^1.1.4"
+  }
+}
